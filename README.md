@@ -6,6 +6,11 @@ This repository will slowly fill out with useful code and breathtaking github or
 Our motto and mission statement is clear: Vibes are good, friends are better. We will get our grades and pass together.
 
 Group Members:
+
 Andreas Patton-Jensen
+
+
 Mathias Mortensen
+
+
 Zen Rehda
